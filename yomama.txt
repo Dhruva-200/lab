@@ -1,4 +1,2 @@
-what dog is that
-pomegranate
-clash
-royal
+this is the new editing thing in git
+now is this the bug fix git repo or the main ->im editing in bugFixa
